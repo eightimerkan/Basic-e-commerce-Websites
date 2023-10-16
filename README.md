@@ -1,29 +1,5 @@
 # Basic e-commerce
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
 
 <img width="1679" alt="Ekran Resmi 2023-10-16 17 04 27" src="https://github.com/eightimerkan/Basic-e-commerce-Websites/assets/94108688/fe148735-1d1f-47e9-9a3a-02e599899ec0">
 
